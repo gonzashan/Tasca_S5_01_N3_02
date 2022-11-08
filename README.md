@@ -27,7 +27,7 @@ Per a això, depenent del package principal, crearàs una estructura de packages
 -   cat.itacademy.barcelonactiva.cognoms.nom.s05.t01.n03.model.services
 -   cat.itacademy.barcelonactiva.cognoms.nom.s05.t01.n03.model.repository
 
-    <img src="https://github.com/gonzashan/Tasca_S5_01_N3_02/blob/main/tree.png" height="263" width="300" >
+    <img src="https://github.com/gonzashan/Tasca_S5_01_N3_02/blob/main/tree.png" height="371" width="300" >
   
 
  
